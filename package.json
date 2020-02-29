@@ -1,0 +1,35 @@
+{
+  "name": "thorui",
+  "version": "1.4.2",
+  "description": "``开源不易，需要鼓励。给 ThorUI项目点个 star吧``",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xxlh/ThorUI-uniapp-npm.git"
+  },
+  "keywords": [
+    "ui",
+    "uniapp",
+    "thorui"
+  ],
+  "author": "Little Linghuan <xiaolinghuan@eexx.me>",
+  "maintainers": [
+    {
+      "name": "Little Linghuan",
+      "email": "xiaolinghuan@eexx.me",
+      "url": "https://ieexx.com"
+    }, {
+      "name": "Esone",
+      "email": "01@eexx.me",
+      "url": "https://eexx.me"
+    }
+  ],
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/xxlh/ThorUI-uniapp-npm/issues"
+  },
+  "homepage": "https://github.com/xxlh/ThorUI-uniapp-npm#readme"
+}
