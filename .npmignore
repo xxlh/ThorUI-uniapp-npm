@@ -14,6 +14,7 @@ utils/
 build.js
 package-lock.json
 
+index.js
 App.vue
 main.js
 manifest.json

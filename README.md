@@ -7,6 +7,25 @@ ThorUI组件库，uni-app代码片段分享
 | ------------ | ------------ | ------------ | ------------ |
 |  微信小程序 |H5二维码  | QQ小程序  | Android App  |
 
+## 安装
+
+__Option 1: download__
+git clone，拷贝components目录至项目
+
+__Option 2: npm__  
+If you prefer the [node package manager](https://www.npmjs.com/package/thorui), feel free to use it.  
+Keep in mind that like with bower non-crucial files will be ignored (see above).
+
+```bash
+npm install thorui
+```
+
+### 感谢 @小玲欢 提供npm安装方式
+
+I am a creative coder based in Xiamen, China.
+
+[Learn more on my website](http://ieexx.com) or [Follow me on Weibo](http://weibo.com/1225xlh)
+
 # 网站介绍
 
 [https://www.thorui.cn/](https://www.thorui.cn/)
