@@ -1,6 +1,8 @@
 .vscode/
 node_modules/
+**/.gitkeep
 
+build/
 src/
 components/
 common/
