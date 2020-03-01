@@ -1,10 +1,11 @@
 {
   "name": "thorui",
-  "version": "1.4.2",
+  "version": "1.0.0",
   "description": "``开源不易，需要鼓励。给 ThorUI项目点个 star吧``",
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+	"test": "echo \"Error: no test specified\" && exit 1",
+	"prepare": "cp -r components lib"
   },
   "repository": {
     "type": "git",
@@ -21,7 +22,8 @@
       "name": "Little Linghuan",
       "email": "xiaolinghuan@eexx.me",
       "url": "https://ieexx.com"
-    }, {
+    },
+    {
       "name": "Esone",
       "email": "01@eexx.me",
       "url": "https://eexx.me"
@@ -31,5 +33,6 @@
   "bugs": {
     "url": "https://github.com/xxlh/ThorUI-uniapp-npm/issues"
   },
-  "homepage": "https://github.com/xxlh/ThorUI-uniapp-npm#readme"
+  "homepage": "https://github.com/xxlh/ThorUI-uniapp-npm#readme",
+  "devDependencies": {}
 }

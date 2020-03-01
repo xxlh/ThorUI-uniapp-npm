@@ -2,6 +2,7 @@
 node_modules/
 
 src/
+components/
 common/
 libs/
 pages/
@@ -13,7 +14,7 @@ utils/
 build.js
 package-lock.json
 
-App.uve
+App.vue
 main.js
 manifest.json
 pages.json
